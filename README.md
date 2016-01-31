@@ -6,7 +6,6 @@
 
 - curl
 - git
-- supervisor
 - wget
 
 *Requirements*
