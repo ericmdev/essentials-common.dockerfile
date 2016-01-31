@@ -12,7 +12,6 @@ MAINTAINER Eric Mugerwa <dev@ericmugerwa.com>
 RUN apt-get update && apt-get install -y \
     curl \
     git \
-    supervisor \
     wget
 
 # Configure executable.
