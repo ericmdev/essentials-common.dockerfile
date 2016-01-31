@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ericmdev/essentials-common.dockerfile.svg?branch=master)](https://travis-ci.org/ericmdev/essentials-common.dockerfile)
 
-**Dockerfile** of [Debian](https://www.debian.org/) essentials-common:
+**Dockerfile** of [Debian](https://www.debian.org/) essentials (common):
 
 - curl
 - git
